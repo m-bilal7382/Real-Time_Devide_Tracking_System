@@ -11,6 +11,12 @@ This project is a web application designed for real-time location tracking and m
 - Display locations on an interactive map using OpenStreetMap and Leaflet.js
 - Supports multiple connected users viewing locations simultaneously
 
+## 📸 Screenshots
+* Home Page
+
+![Home Page](https://user-images.githubusercontent.com/117112672/224544225-c6f79f39-d51c-41e0-acce-fb9c2fdd01a6.jpg)
+
+
 ## 🧑‍💻Technologies Used
 
 - **JavaScript**
@@ -19,11 +25,6 @@ This project is a web application designed for real-time location tracking and m
 - **Socket.IO**
 - **OpenStreetMap**
 - **Leaflet.js**
-
-## 📸 Screenshots
-* Home Page
-
-![Home Page](https://user-images.githubusercontent.com/117112672/224544225-c6f79f39-d51c-41e0-acce-fb9c2fdd01a6.jpg)
 
 ## Installation
 

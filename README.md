@@ -5,13 +5,13 @@ Developed a dynamic web-based system capable of tracking the real-time location 
 
 This project is a web application designed for real-time location tracking and monitoring. It utilizes WebSocket technology to provide real-time updates, displaying the location of tracked entities on a map. All connected users can view everyone's location on the map in real-time.
 
-## Features
+## ❇️Features
 
 - Real-time location updates using WebSocket technology
 - Display locations on an interactive map using OpenStreetMap and Leaflet.js
 - Supports multiple connected users viewing locations simultaneously
 
-## Technologies Used
+## 🧑‍💻Technologies Used
 
 - **JavaScript**
 - **Node.js**
@@ -19,6 +19,11 @@ This project is a web application designed for real-time location tracking and m
 - **Socket.IO**
 - **OpenStreetMap**
 - **Leaflet.js**
+
+## 📸 Screenshots
+* Home Page
+
+![Home Page](https://user-images.githubusercontent.com/117112672/224544225-c6f79f39-d51c-41e0-acce-fb9c2fdd01a6.jpg)
 
 ## Installation
 
@@ -35,7 +40,7 @@ This project is a web application designed for real-time location tracking and m
     npm install
     ```
 
-## Usage
+## 🧐Usage
 
 1. Start the server:
     ```bash
@@ -43,7 +48,7 @@ This project is a web application designed for real-time location tracking and m
     ```
 2. Open your web browser and go to `http://localhost:3000` to view the application.
 
-## Project Structure
+## 📖Project Structure
 
 - `server.js` - Main server file that sets up the Express server and WebSocket.
 - `public/` - Directory containing the client-side code.
@@ -59,11 +64,11 @@ You can view a live demo of the project [here](https://locationreal.onrender.com
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements or bugs.
 
-## License
+## 🧑‍💻License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
+## 🚀Contact
 
 - **Author:** M.BILAL
 - **Email:** m.bilal7382.com

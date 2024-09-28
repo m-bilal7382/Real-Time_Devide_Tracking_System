@@ -14,7 +14,7 @@ This project is a web application designed for real-time location tracking and m
 ## 📸 Screenshots
 * Home Page
 
-![Home Page](https://github.com/m-bilal7382/Real-Time_Tracking_System/releases/tag/user-image)
+![Home Page](https://github.com/m-bilal7382/Real-Time_Tracking_System/releases/tag/image)
 
 
 ## 🧑‍💻Technologies Used

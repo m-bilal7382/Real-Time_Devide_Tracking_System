@@ -24,7 +24,7 @@ This project is a web application designed for real-time location tracking and m
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/faisal-shohag/realtime_location_tracking.git
+    git clone https://github.com/m-bilal7382/realtime_location_tracking.git
     ```
 2. Navigate to the project directory:
     ```bash

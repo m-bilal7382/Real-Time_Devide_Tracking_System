@@ -16,6 +16,11 @@ This project is a web application designed for real-time location tracking and m
 
 ![Home Page]![Screenshot (289) (1)](https://github.com/user-attachments/assets/b4c75886-8dd3-41dc-9e8c-80c3c7fc2015)
 
+## 📸 Screenshots
+* Home Page After Tracking Real Location:
+![Screenshot (288) (1)](https://github.com/user-attachments/assets/c660bb89-5b49-48bc-980e-4d7248487562)
+
+
 
 
 ## 🧑‍💻Technologies Used
@@ -60,7 +65,7 @@ This project is a web application designed for real-time location tracking and m
 
 ## Demo
 
-You can view a live demo of the project [here](https://locationreal.onrender.com/). *(Please note that it may take a few seconds for the server to wake up.)*
+You can view a live demo of the project [here](https://realtimetracking.onrender.com/). *(Please note that it may take a few seconds for the server to wake up.)*
 
 ## Contributing
 
@@ -68,7 +73,7 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 ## 🧑‍💻License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]file for details.
 
 ## 🚀Contact
 
